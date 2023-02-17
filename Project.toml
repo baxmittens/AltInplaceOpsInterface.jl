@@ -3,5 +3,7 @@ uuid = "d59240d3-86bd-48c4-8b44-fa29ea3b0621"
 authors = ["bittens "]
 version = "0.1.0"
 
+[deps]
+
 [compat]
 julia = "1"
