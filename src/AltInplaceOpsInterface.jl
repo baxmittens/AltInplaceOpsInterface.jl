@@ -1,5 +1,7 @@
 module AltInplaceOpsInterface
 
+import LinearAlgebra
+
 add!(a::A, b::B) where {A,B} = error("add!(a::$A, b::$B) is not implemented")
 minus!(a::A, b::B) where {A,B} = error("minus!(a::$A, b::$B) is not implemented")
 pow!(a::A, b::B) where {A,B} = error("pow!(a::$A, b::$B) is not implemented")
