@@ -1,7 +1,7 @@
 name = "AltInplaceOpsInterface"
 uuid = "d59240d3-86bd-48c4-8b44-fa29ea3b0621"
 authors = ["bittens "]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
